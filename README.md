@@ -2,5 +2,5 @@
 GitHub. Работа с ветками, слияниями, разрешение конфликтов
 Вариант 11
 Ссылка на репозитории для выполнения самостоятельного задания:
-https://github.com/Iezekiss/Lab11
+https://github.com/Iezekiss/Lab11     и    
 https://gitlab.com/lab24515944/Lab2killme/-/tree/master?ref_type=heads (смотреть мастер-ветку) 
